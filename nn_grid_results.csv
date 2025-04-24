@@ -1,0 +1,2 @@
+HL,# Node,Activation Function,Dropout,Batch Size,AUC Train,AUC Test1,AUC Test2
+4,6,tanh,0%,10000,0.9301050452153166,0.9334194241901301,0.9281550549652963

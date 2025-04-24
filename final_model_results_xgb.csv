@@ -1,0 +1,2 @@
+Trees,LR,Subsample,% Features,Weight of Default,AUC Train,AUC Test 1,AUC Test 2
+300,0.1,0.8,0.5,5.0,0.9743823285329075,0.9429295738641889,0.9411961493692956
